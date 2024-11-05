@@ -1,7 +1,0 @@
-mutation createCart {
-  createGuestCart {
-    cart {
-      id
-    }
-  }
-}
